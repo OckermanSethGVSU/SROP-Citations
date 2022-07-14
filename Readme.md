@@ -1,4 +1,5 @@
 References
+
 [1] M. A. Beck, C.-Y. Liu, C. P. Bidinosti, C. J. Henry, C. M. Godee, and
 M. Ajmani. An embedded system for the automated generation of
 labeled plant images to enable machine learning applications in agri-
